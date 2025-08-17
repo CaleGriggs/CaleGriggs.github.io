@@ -1,10 +1,12 @@
-## Welcom to my GitHub.io page
+## Welcome!
 
-email: <calegriggs@gmail.com>
+Cale Griggs <br>
+Email: <calegriggs@gmail.com> <br>
+(801) 837-3160 <br>
+Camano Island, Washington
 
-### Education:
 
-Graduated from Southern New Hampshire University in April 2022 with a Bacelor of Science in Computer Science.
+### [Game](https://github.com/CaleGriggs/Game) I'm making to learn Godot
 
 
 
@@ -20,3 +22,46 @@ Graduated from Southern New Hampshire University in April 2022 with a Bacelor of
 
 
 
+### Education:
+#### Southern New Hampshire University
+2018 - 2022
+Bachelor of Science
+Computer Science
+3.0 GPA
+#### Relevant Coursework:
+Data Structures & Algorithms,
+Software Development, Web
+Programming, Databases, Computer
+Architecture
+
+#### Programming:
+⠐ C++ <br>
+⠐ C# <br>
+⠐ Python <br>
+⠐ JavaScript <br>
+⠐ SQL <br>
+⠐ MongoDB <br>
+⠐ GDscript <br>
+#### Software, Tools & Systems:
+⠐ Visual Studio <br>
+⠐ VS Code <br>
+⠐ MS Office <br>
+⠐ Photoshop <br>
+⠐ GIMP <br>
+⠐ Solid Works <br>
+⠐ Polyworks <br>
+⠐ Git <br>
+⠐ Windows <br>
+⠐ Linux <br>
+⠐ Unreal Engine <br>
+⠐ Unity Engine <br>
+⠐ Godot Engine <br>
+⠐ Adobe Premiere <br>
+⠐ DaVinci Resolve <br>
+
+#### Soft Skills:
+⠐ Strong communication andcollaboration skills <br>
+⠐ Detail-oriented and highlyorganized <br>
+⠐ Excellent time management and multitasking <br>
+⠐ Quick learner and adaptable to new technologies <br>
+⠐ Proven problem-solving and critical thinking abilities <br>
