@@ -6,10 +6,6 @@ Email: <calegriggs@gmail.com> <br>
 Camano Island, Washington
 
 
-### [Game](https://github.com/CaleGriggs/Game) I'm making to learn Godot
-
-
-
 ### Projects From School:
 
 * [Farkle](https://github.com/CaleGriggs/SchoolProjects/tree/main/Farkle-main)
@@ -19,6 +15,9 @@ Camano Island, Washington
 * [Pictures to ASCII](https://github.com/CaleGriggs/SchoolProjects/tree/main/asciiProj)
 
 * [Embedded Systems](https://github.com/CaleGriggs/SchoolProjects/tree/main/Embedded%20C)
+
+
+### Here's a [Game](https://github.com/CaleGriggs/Game) I'm making to learn Godot
 
 ### Education:
 #### Southern New Hampshire University
