@@ -12,15 +12,13 @@ Camano Island, Washington
 
 ### Projects From School:
 
-* [Farkle](https://github.com/CaleGriggs/Farkle)
+* [Farkle](https://github.com/CaleGriggs/SchoolProjects/tree/main/Farkle-main)
 
-* [Database Project](https://github.com/CaleGriggs/DatabaseProject)
+* [Database Project](https://github.com/CaleGriggs/SchoolProjects/tree/main/DatabaseProject-main)
 
-* [Pictures to ASCII](https://github.com/CaleGriggs/JPG_to_ASCII)
+* [Pictures to ASCII](https://github.com/CaleGriggs/SchoolProjects/tree/main/asciiProj)
 
-* [Chess Engine(WIP)](https://github.com/CaleGriggs/Chess)
-
-
+* [Embedded Systems](https://github.com/CaleGriggs/SchoolProjects/tree/main/Embedded%20C)
 
 ### Education:
 #### Southern New Hampshire University
