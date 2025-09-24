@@ -25,7 +25,7 @@ Camano Island, Washington
 2018 - 2022
 Bachelor of Science
 Computer Science
-3.0 GPA
+
 #### Relevant Coursework:
 Data Structures & Algorithms,
 Software Development, Web
