@@ -17,8 +17,6 @@ Camano Island, Washington
 * [Embedded Systems](https://github.com/CaleGriggs/SchoolProjects/tree/main/Embedded%20C)
 
 
-### Here's a [Game](https://github.com/CaleGriggs/Game) I'm making to learn Godot
-
 ### Education:
 #### Southern New Hampshire University
 2018 - 2022
